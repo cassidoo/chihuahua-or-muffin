@@ -21,3 +21,7 @@ Secret with others.  Create a `keys.js` file and have it look like the following
 var CLIENT_ID = 'your ID here';
 var CLIENT_SECRET = 'your secret here';
 ```
+
+## Example screenshot
+
+![screenshot](screenshot.jpg)
